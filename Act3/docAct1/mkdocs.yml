@@ -1,0 +1,11 @@
+site_name: Doc Act1
+site_url: https://docAct1.com/
+nav:
+    - Home: index.md
+    - About: about.md
+    - Test: test-reference.md
+    - Act1: act1-reference.md
+theme: readthedocs
+plugins:
+  - search
+  - mkdocstrings
